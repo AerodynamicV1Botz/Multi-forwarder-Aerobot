@@ -8,8 +8,8 @@
         "forward",
         "robot"
     ],
-    "website": "https://github.com/m4mallu/multi-channel-forward-bot",
-    "repository": "https://github.com/m4mallu/multi-channel-forward-bot",
+    "website": "https://github.com/AerodynamicV1Botz/Multi-forwarder-Aerobot",
+    "repository": "https://github.com/AerodynamicV1Botz/Multi-forwarder-Aerobot",
     "env": {
         "TG_BOT_TOKEN": {"description": "Your Bot Token", "required": true},
         "APP_ID": {"description": "Your APP ID", "required": true},
